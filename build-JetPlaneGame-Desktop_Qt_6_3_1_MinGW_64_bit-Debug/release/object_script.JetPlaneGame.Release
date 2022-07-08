@@ -1,0 +1,12 @@
+release/bird.o
+release/bomber.o
+release/earth.o
+release/enemyjet.o
+release/enemymissle.o
+release/jet.o
+release/main.o
+release/mainwindow.o
+release/meteorite.o
+release/missle.o
+release/qrc_ABC.o
+release/moc_mainwindow.o

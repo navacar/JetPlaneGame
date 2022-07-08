@@ -1,0 +1,12 @@
+debug/bird.o
+debug/bomber.o
+debug/earth.o
+debug/enemyjet.o
+debug/enemymissle.o
+debug/jet.o
+debug/main.o
+debug/mainwindow.o
+debug/meteorite.o
+debug/missle.o
+debug/qrc_ABC.o
+debug/moc_mainwindow.o

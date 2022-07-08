@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/ABC">
+        <file>images/earth.jpg</file>
+        <file>images/enemyBird.png</file>
+        <file>images/enemyBomber.png</file>
+        <file>images/enemyJet.png</file>
+        <file>images/playerJet.png</file>
+        <file>images/enemyMissle.png</file>
+        <file>images/friendlyMissle.png</file>
+        <file>images/meteorite.png</file>
+    </qresource>
+</RCC>
